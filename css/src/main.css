@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+#wrap{
+  width:100%;
+  /* min-width:960px;  */
+  height:100%; min-height:500px;
+  margin:auto; padding-top:100px;
+  background-color: bisque;
+}
+
+#headBox{
+  background-color: #fd7622;
+  color: #fff;
+  width: 100%;
+  min-height: 56px;
+  display: block;
+}
+
+#navBox{
+   
+}
+
+#footer{
+  margin-top: auto;
+  background-color: #fd7622;
+  color: rgb(0, 0, 0);
+}
